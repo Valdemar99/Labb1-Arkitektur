@@ -10,4 +10,13 @@
       <context-root>ClientProject</context-root>
     </web>
   </module>
+  <module>
+    <ejb>StatefulEJBProject.jar</ejb>
+  </module>
+  <module>
+    <web>
+      <web-uri>TestEmployeeEJB_JUnitEE.war</web-uri>
+      <context-root>TestEmployeeEJB_JUnitEE</context-root>
+    </web>
+  </module>
 </application>
